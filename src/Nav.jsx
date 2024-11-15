@@ -76,9 +76,9 @@ const Nav = () => {
               </form>
             </div>
 
-            <div className=" mt-5">
+            {/* <div className=" mt-5">
               <hr></hr>
-            </div>
+            </div> */}
             
         </div>
     );
