@@ -1,3 +1,4 @@
+import BrowseCategoris from "./home file/BrowseCategoris";
 import CompanyLogo from "./home file/CompanyLogo";
 import Discount from "./home file/Discount";
 import HomeBanner from "./home file/HomeBanner";
@@ -14,6 +15,7 @@ const Home = () => {
             <CompanyLogo></CompanyLogo> 
             <Save></Save>
             <Discount></Discount>
+            <BrowseCategoris></BrowseCategoris>
             
                    
         </div>
