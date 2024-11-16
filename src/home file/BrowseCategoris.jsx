@@ -5,7 +5,7 @@ const BrowseCategoris = () => {
 
 
     return (
-        <div className=" mt-10 mb-10 ml-5 mr-5  ">
+        <div className=" mt-10 mb-10 ">
 
 
             <div className=" flex-col md:flex-row lg:flex-row  mb-10 flex justify-between items-center p-5 ">
@@ -18,7 +18,7 @@ const BrowseCategoris = () => {
             </a>
             </div>
 
-            <div className=" flex justify-center">
+            <div className=" flex justify-center p-5">
             <div className=" grid  md:grid-cols-5 gap-20 ">
             <div className=" transition duration-300 ease-in-out hover:scale-110">
             <img className=" h-[200px] w-[200px] rounded-full " src="https://gomax.themeasy.co/wp-content/uploads/2023/10/48-1-1.jpg" alt="" />
